@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Samples" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorAccent">@color/primaryDarkColor</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="android:colorControlNormal">@color/primaryColor</item>
+        <item name="android:textColorPrimary">@color/primaryTextColor</item>
+        <item name="android:toolbarStyle">@style/AppTheme.Toolbar</item>
+        <item name="android:textAppearance">@style/Text</item>
+        <item name="buttonStyle">@style/Widget.Samples.Button</item>
+        <item name="toolbarStyle">@style/AppTheme.Toolbar</item>
+    </style>
+</resources>

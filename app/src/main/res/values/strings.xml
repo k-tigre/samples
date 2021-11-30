@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Samples</string>
+    <string name="screen_title_users_list">Main screen</string>
+    <string name="screen_title_user_details">Details screen</string>
+    <string name="screen_title_user_edit_photo">Edit Photo</string>
+    <string name="screen_title_user_edit_body_weight">Edit Body Weight</string>
+    <string name="screen_title_user_edit_birthday">Edit Date Of Birthday</string>
+    <string name="screen_title_user_enter_photo">Photo</string>
+    <string name="screen_title_user_enter_body_weight">Enter Body Weight</string>
+    <string name="screen_title_user_enter_birthday">Enter Date Of Birthday</string>
+    <string name="screen_user_editor_generate_avatar">generate avatar</string>
+    <string name="screen_user_editor_enter_you_wight">enter you wight</string>
+    <string name="screen_users_list_empty">No clients added so far</string>
+    <string name="screen_users_list_error">Failed to fetch clients</string>
+
+    <string name="button_tap_to_retry">Tap to Retry</string>
+    <string name="button_next">Next</string>
+    <string name="button_prev">Prev</string>
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_edit">edit</string>
+
+    <string name="item_user_birthday_label">BOD</string>
+    <string name="item_user_wight_label">Wight</string>
+
+    <string name="wight_system_type_metric_title">kg</string>
+    <string name="wight_system_type_imperial_title">lbs</string>
+</resources>
